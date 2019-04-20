@@ -1,6 +1,3 @@
-//19970723-9597 - Nyamgarig Naranbaatar
-//19980303-0437 - Mosleh Mahamud
-//19961107-8354 - Mpho Khumalo
 package sample;
 
 public class Apparatus extends Valuables {
